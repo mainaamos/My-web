@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Twisted Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #333;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        
+        header {
+            background-color: #666;
+            padding: 20px;
+        }
+        
+        main {
+            padding: 20px;
+        }
+        
+        footer {
+            background-color: #666;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to the Twisted Website</h1>
+    </header>
+    <main>
+        <p>This is where the dark magic happens.</p>
+        <p>Feel free to explore, if you dare.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 Twisted Inc. All rights reserved.</p>
+    </footer>
+</body>
+</html>
